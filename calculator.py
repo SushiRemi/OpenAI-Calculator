@@ -74,3 +74,4 @@ while(not quitProgram):
     else:
         print("Invalid command, please try again.")
 
+# Programmed with love by Julianne Ong <3
